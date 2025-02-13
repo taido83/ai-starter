@@ -9,6 +9,8 @@ Nội dung: Làm quen với AI<br/>
 
 [Bài 01: Thực hành làm quen với App Inventor](./01_app_inventor)
 
+[Bài 02: Tạo Ứng Dụng Voice Calculator](./02_voice_calculator)
+
 ## Tham Khảo
 
 ## Thông tin cá nhân
